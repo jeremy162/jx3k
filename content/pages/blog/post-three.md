@@ -19,10 +19,10 @@ backgroundImage:
   opacity: 10
 bottomSections:
   - elementId: ''
-    type: RecentPostsSection
+    type: RecentSection
     colors: colors-f
     variant: variant-d
-    subtitle: Recent posts
+    subtitle: Recent 
     showDate: true
     showAuthor: false
     showExcerpt: true
